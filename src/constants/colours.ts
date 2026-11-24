@@ -9,4 +9,5 @@ export const Colours = {
     backbox : "#F3EDDB",
     backarrow : "#123F4B",
     LOADING : '#B59410',
+    loadtext : '#8e8e93',
 }
