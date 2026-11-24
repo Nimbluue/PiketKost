@@ -1,4 +1,4 @@
-export const Colors = {
+export const Colours = {
     background: "#FFF8ED",
     ssdot : "#169976",
     buttontext: "#078B7B",
@@ -8,4 +8,5 @@ export const Colors = {
     inpplace : "#809B9B",
     backbox : "#F3EDDB",
     backarrow : "#123F4B",
+    LOADING : '#B59410',
 }
