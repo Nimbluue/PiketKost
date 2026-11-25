@@ -26,9 +26,17 @@ export default function Main(){
             <Image source={require('../../../assets/images/LOGO-HORIZONTOL.png')} 
             style={{width : '100%', height : '100%', resizeMode : 'center'}} /> 
         </View>
-         <Text style={{fontFamily : 'Fredoka-Medium', fontSize : 20}}>
+
+        <Text style={{
+            marginTop : 16,
+            fontSize : 32,
+            fontFamily : 'Fredoka-Medium',
+            color : Colours.ftitle,
+            justifyContent:'center',
+            alignItems:'center',
+            }}>
             Kalender Piket
-         </Text>
+        </Text>
         
     </View>
 
