@@ -10,4 +10,5 @@ export const Colours = {
     backarrow : "#123F4B",
     LOADING : '#B59410',
     loadtext : '#8e8e93',
+    banner : '#DCD0C7',
 }
