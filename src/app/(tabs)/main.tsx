@@ -14,7 +14,7 @@ export default function Main(){
         backgroundColor : Colours.background,
         }}>
         
-        <View style={{
+        <View style={{ //BANNER+LOGO
             paddingTop: insets.top + 16,
             paddingBottom: 16,
             width : '100%',
@@ -24,8 +24,11 @@ export default function Main(){
             alignItems : 'center',
         }}>
             <Image source={require('../../../assets/images/LOGO-HORIZONTOL.png')} 
-            style={{width : '100%', height : '100%', resizeMode : 'center'}} />
+            style={{width : '100%', height : '100%', resizeMode : 'center'}} /> 
         </View>
+         <Text style={{fontFamily : 'Fredoka-Medium', fontSize : 20}}>
+            Kalender Piket
+         </Text>
         
     </View>
 
